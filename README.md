@@ -1,6 +1,8 @@
 # Démonstration Flexbox et display: contents
 
-Ce projet a pour objectif de vous familiariser avec l'utilisation combinée de display: flex et display: contents. Vous apprendrez comment créer des mises en page flexibles tout en préservant l'alignement des éléments enfants.
+Ce projet a pour objectif de vous familiariser avec l'utilisation combinée de `display: flex` et `display: contents`. Vous apprendrez comment créer des mises en page flexibles tout en préservant l'alignement des éléments enfants.
+
+![](https://raw.githubusercontent.com/FlorianBx/flex-content-child/refs/heads/main/assets/screen.png)
 
 ## Concept clé : display: contents
 
